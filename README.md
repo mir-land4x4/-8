@@ -1,4 +1,3 @@
-Код:
 #include <Wire.h>
 #include <Adafruit_BMP085.h>
 #include <LiquidCrystal_I2C.h>
